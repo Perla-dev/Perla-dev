@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Perla-dev
 - 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning web development 
 
 
 <!---
