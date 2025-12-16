@@ -18,7 +18,7 @@ Ce profil est dédié à la démonstration de mes compétences techniques align�
 
 ---
 
-## 📂 Projets Clés (Exemples de Repositories à Mettre en Évidence)
+## 📂 Projets Clés
 
 * **`Non_Regression_Cypress_GitLab_CI`** : Automatisation d'une suite de tests de non-régression avec Cypress. Configuration du pipeline CI/CD pour une exécution automatisée (GitLab CI/CD).
 * **`Data_Quality_Validation_Python`** : Scripts Python et requêtes SQL pour vérifier la cohérence et l'intégrité de jeux de données, simulant des contrôles qualité sur des pipelines (Big Data/ETL).
