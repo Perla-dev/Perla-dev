@@ -1,4 +1,4 @@
-# 🌟 Perla-dev : Ingénieure Qualité Logicielle | Automation & CI/CD
+## Ingénieure Qualité Logicielle | Automation & CI/CD
 
 👋 Bienvenue ! Je suis Oumaima, Ingénieure spécialisée en tests logiciels, automatisation et validation de données.
 
@@ -29,7 +29,7 @@ Ce profil est dédié à la démonstration de mes compétences techniques align�
 
 ---
 
-🧪 **Verify, Value, Validate: Quality for System Performance.**
+🌟 **Verify, Value, Validate: Quality for System Performance.**
 
 
 <!---
