@@ -29,7 +29,7 @@ Ce profil est dédié à la démonstration de mes compétences techniques align�
 
 ---
 
-🧪 **Vérifier, Valoriser, Verrouiller : La qualité au service de la performance SI.**
+🧪 **Verify, Value, Validate: Quality for System Performance.**
 
 
 <!---
