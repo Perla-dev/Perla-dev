@@ -20,9 +20,12 @@ Ce profil est dédié à la démonstration de mes compétences techniques align�
 
 ## 📂 Projets Clés
 
-* **`Non_Regression_Cypress_GitLab_CI`** : Automatisation d'une suite de tests de non-régression avec Cypress. Configuration du pipeline CI/CD pour une exécution automatisée (GitLab CI/CD).
-* **`Data_Quality_Validation_Python`** : Scripts Python et requêtes SQL pour vérifier la cohérence et l'intégrité de jeux de données, simulant des contrôles qualité sur des pipelines (Big Data/ETL).
-* **`JMeter_Load_Testing_API`** : Conception de plans de test JMeter pour simuler la charge et évaluer les performances d'une API (Montée en charge).
+* **Automatisation CI/CD :** **[`Non_Regression_Cypress_GitLab_CI`](https://github.com/Perla-dev/Non_Regression_Cypress_GitLab_CI)**
+  Automatisation d'une suite de tests de non-régression avec Cypress. Configuration du pipeline CI/CD pour une exécution automatisée (GitLab CI/CD).
+* **Validation Big Data/ETL :** **[`Data_Validation_Python_SQL`](https://github.com/Perla-dev/Data_Validation_Python_SQL)** 
+  Scripts Python et requêtes SQL pour vérifier la cohérence et l'intégrité de jeux de données, simulant des contrôles qualité sur des pipelines (Big Data/ETL).
+* **Tests de Performance :** **[`JMeter_Load_Testing_API`](https://github.com/Perla-dev/JMeter_Load_Testing_API)**
+  Conception de plans de test JMeter pour simuler la charge et évaluer les performances d'une API (Montée en charge).
 
 ---
 
