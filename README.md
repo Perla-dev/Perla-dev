@@ -28,6 +28,10 @@ Ce profil est dédié à la démonstration de mes compétences techniques align�
   Conception de plans de test JMeter pour simuler la charge et évaluer les performances d'une API (Montée en charge).
 
 ---
+### 🌐 Connect & Archive
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/oumaima-sll19/)
+[![Legacy Profile](https://img.shields.io/badge/Past_Projects-Archive-333333?style=flat-square&logo=github)](https://github.com/emaoumaima)
 
 🌟 **Verify, Value, Validate: Quality for System Performance.**
 
